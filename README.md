@@ -1,2 +1,2 @@
 # Kun
-Kun a rogue-like game at We-Chat platform.
+Kun is a rogue-like game at We-Chat platform.
